@@ -8,7 +8,7 @@
  */
 
 import java.util.*;
-public class Queue {
+public class s5 cse b Queue {
 	
 	int front=-1;
 	int back=-1;
